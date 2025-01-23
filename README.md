@@ -1,4 +1,4 @@
-# Week-1
+# Exhaustive Analysis of Indian Agriculture Using Power BI
 
 The project aims to conduct a comprehensive analysis of the Indian agriculture sector utilizing Power BI, a powerful business analytics tool.
 
